@@ -73,3 +73,9 @@ The project outputs include:
 - **Community clusters** of countries.
 - **Centrality metrics** such as Degree, Betweenness, and Closeness.
 
+## **Contact Information**
+For any questions or further information, please contact:
+
+- **Name:** [Mohammed Alqarni]
+- **Email:** [M30.alqarni@gmail.com]
+
